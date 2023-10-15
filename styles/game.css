@@ -69,6 +69,16 @@ nav .nav-img {
 
 }
 
+.fa-youtube {
+    color: #F61C0D;
+}
+
+.fa-tiktok {
+    color: rgba(8, 255, 249, 1);
+}
+
+
+
 .nav-img h1 {
     font-size: 45px;
     font-weight: 700;
